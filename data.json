@@ -1,0 +1,279 @@
+{
+  "products": [
+    {
+      "name": "819 Essential Denim – Dirty Blueee",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-162cc.appspot.com/o/images%2F81985D-bb-e1619841295131.jpg?alt=media&token=360aeba7-042b-4a03-a4e3-3f6fe2f5d961",
+      "price": "123798",
+      "categoryId": "1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "categoryId": "1",
+      "name": "639 Essential Denim – Deep Indigo",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/12/63973-a-1-e1608191828264.jpg",
+      "price": "530000",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 14
+    },
+    {
+      "id": "3",
+      "categoryId": "1",
+      "name": "639 Essential Denim – Light Bleach",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/12/63980D-a-e1608721583431.jpg",
+      "price": "821.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 64
+    },
+    {
+      "id": "4",
+      "categoryId": "1",
+      "name": "639 Essential Denim – Light Blue",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/63986-b-e1618377517337.jpg",
+      "price": "894.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": true,
+      "quantity": 94
+    },
+    {
+      "id": "5",
+      "categoryId": "1",
+      "name": "639 Essential Denim – Silver Blue",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/63983-a-e1618378191706.jpg",
+      "price": "156.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 13
+    },
+    {
+      "id": "6",
+      "categoryId": "1",
+      "name": "819 Essential Denim – Dark Indigo",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/12/81975D-a-e1607573563388.jpg",
+      "price": "933.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": true,
+      "quantity": 64
+    },
+    {
+      "id": "7",
+      "categoryId": "1",
+      "name": "819 Essential Denim – Dark Indigo",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/12/81975C-a-e1607573806337.jpg",
+      "price": "694.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 65
+    },
+    {
+      "id": "8",
+      "categoryId": "1",
+      "name": "819 Essential Denim – Black",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2018/09/81923aa-e1607572804713.jpg",
+      "price": "797.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 22
+    },
+    {
+      "id": "9",
+      "categoryId": "1",
+      "name": "Essential Denim – Deep Indigo",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/12/81973d-a-e1608191969671.jpg",
+      "price": "841.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 98
+    },
+    {
+      "id": "10",
+      "categoryId": "1",
+      "name": "819 Essential Denim – Dirty Blue",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/81985D-bb-e1619841295131.jpg",
+      "price": "828.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 63
+    },
+    {
+      "id": "11",
+      "categoryId": "1",
+      "name": "819 Essential Denim – Dust Indigo",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/12/81972d-a-e1607085341948.jpg",
+      "price": "824.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": true,
+      "quantity": 86
+    },
+    {
+      "id": "12",
+      "categoryId": "1",
+      "name": "639 Essential Denim – Dust Blue",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/63988-a-e1618377698549.jpg",
+      "price": "611.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 14
+    },
+    {
+      "id": "13",
+      "categoryId": "2",
+      "name": "Basic Loose Tee – Light Teal",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/01/tealteeweb.jpg",
+      "price": "821.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 64
+    },
+    {
+      "id": "14",
+      "categoryId": "2",
+      "name": "Basic Loose Tee – White",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/01/AFT_2534webaa-e1578739752332.jpg",
+      "price": "894.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": true,
+      "quantity": 94
+    },
+    {
+      "id": "15",
+      "categoryId": "2",
+      "name": "Logo Regular Tee – Pepper Grey",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/PG-tee-a-1-e1618382056917.jpg",
+      "price": "156.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 13
+    },
+    {
+      "id": "16",
+      "categoryId": "2",
+      "name": "Logo Regular Tee – Moss Green",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/MG-tee-a-1-e1618381843679.jpg",
+      "price": "933.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": true,
+      "quantity": 64
+    },
+    {
+      "id": "17",
+      "categoryId": "2",
+      "name": "Logo Regular Tee – Navy Blue",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/NB-tee-a-1-e1618381344147.jpg",
+      "price": "694.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 65
+    },
+    {
+      "id": "18",
+      "categoryId": "2",
+      "name": "Logo Loose Tee – Lime",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2019/04/37bac1e1643a9b64c22b-e1600333528437.jpg",
+      "price": "797.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 22
+    },
+    {
+      "id": "19",
+      "categoryId": "2",
+      "name": "Logo Regular Tee – Cream White",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/04/CW-tee-a-1-e1618380620308.jpg",
+      "price": "841.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 98
+    },
+    {
+      "id": "20",
+      "categoryId": "2",
+      "name": "Maniac Tee – Aqua",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2019/04/AFT_2539web-e1556179634809.jpg",
+      "price": "828.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 63
+    },
+    {
+      "id": "21",
+      "categoryId": "2",
+      "name": "Basic Loose Tee – Brown",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2020/01/brownteeweb.jpg",
+      "price": "828.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 63
+    },
+    {
+      "id": "22",
+      "categoryId": "2",
+      "name": "Essential Loose Tee – Black",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2019/04/AFT_2528web-e1556180430935.jpg",
+      "price": "828.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis earum tempora illo expedita, blanditiis iusto alias ab cupiditate? Impedit nisi possimus earum autem eaque reprehenderit quas dignissimos sed nesciunt.",
+      "status": false,
+      "quantity": 63
+    },
+    {
+      "name": "áo khoác",
+      "image": "https://thedenimaniac.com/wp-content/uploads/2021/02/EDJFB-a-e1612787656278.jpg",
+      "price": "132",
+      "categoryId": "3",
+      "id": "23"
+    },
+    {
+      "name": "áo 3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-162cc.appspot.com/o/images%2FAo_Thun_Hulk_(Unisex)_trang_GP3398_21_model.jpg?alt=media&token=b1e963c8-afbc-4d6f-b105-024374b8520e",
+      "price": "5551",
+      "categoryId": "3",
+      "id": "920f1e30-218d-4b39-be36-30c3f55307ae"
+    },
+    {
+      "name": "áo adidas 123",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-162cc.appspot.com/o/images%2FSMPS_SQSH_TEE_trang_HA5811_21_model.jpg?alt=media&token=4e11209f-f284-48c1-9365-8b8ded4d9a6f",
+      "price": "41",
+      "categoryId": "3",
+      "id": "9d6b5ed4-961b-423f-a3aa-74ffed35ceb7"
+    },
+    {
+      "id": "86d86e2f-31c8-4d66-a1fe-0a34338d9990",
+      "name": "polo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-162cc.appspot.com/o/images%2Fdsc_1708.jpg?alt=media&token=e24a3ad1-331b-430e-ad43-bda4403584e6",
+      "price": "1111",
+      "categoryId": "3"
+    },
+    {
+      "id": "9c1dec1d-6a40-4543-bc87-67c1dd58a416",
+      "name": "jeans",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-162cc.appspot.com/o/images%2Fmausac_mindigo_10f20dpa036__4__83540e42a567450e871f5e54799a25b4_1.jpg?alt=media&token=b824024f-0d6e-4617-adf7-cd133da4ea7e",
+      "price": "100",
+      "categoryId": "3",
+      "description": "abc"
+    },
+    {
+      "id": "58e2df29-4259-4ff0-b5ac-f602e02c242a",
+      "name": "fff",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-162cc.appspot.com/o/images%2Fmausac_mindigo_10f20dpa036__4__83540e42a567450e871f5e54799a25b4_1.jpg?alt=media&token=69d43567-70a1-4a1e-a845-d046c50492ce",
+      "price": "22222",
+      "categoryId": "3",
+      "description": "áddas"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Denim"
+    },
+    {
+      "id": "2",
+      "name": "T-shirts"
+    },
+    {
+      "id": "3",
+      "name": "Jacket"
+    }
+  ]
+}
